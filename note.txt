@@ -1,3 +1,7 @@
 https://tutorial101.blogspot.com/2021/04/python-flask-student-create-read-update.html
 
 https://www.w3schools.blog/postgresql-tutorial
+
+https://youtu.be/4M5P7HTVjjQ
+
+https://documentation.unistra.fr/Catalogue/Services_pedagogiques/Salles/Ressources/MAI_VIE/co/ConnexionBDD.html
